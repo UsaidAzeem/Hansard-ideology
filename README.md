@@ -1,8 +1,6 @@
 # UK Parliament Ideology Classification
 
 ## A Transformer-Based Approach to Detecting Political Ideology from Parliamentary Speeches
-
-**Author:** [Your Name]
 **Date:** March 2026
 
 ---
